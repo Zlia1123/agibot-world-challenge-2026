@@ -38,10 +38,10 @@ Focus on predictive modeling of environment dynamics and robot interaction.
 
 ```text
 .
-├── configs/          # Experiment and track configurations
+├── assets/           # Posters and static media
 ├── docs/             # Challenge documents
 ├── data/             # Dataset description and expected structure
-├── scripts/          # Training / evaluation / demo entry points
+├── scripts/          # Evaluation and demo entry points
 ├── src/              # Source code
-├── examples/         # Example notebooks
-└── assets/           # Posters and static media
+├── requirements.txt  # Python dependencies
+└── CONTRIBUTING.md   # Contribution and collaboration notes
