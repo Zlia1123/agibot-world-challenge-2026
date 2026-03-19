@@ -1,6 +1,6 @@
 # AGIBOT World Challenge @ ICRA 2026
 
-![Poster](./assets/poster.png)
+![Poster](./data/poster.png)
 
 An embodied AI benchmark challenge for robotics, featuring two tracks:
 
