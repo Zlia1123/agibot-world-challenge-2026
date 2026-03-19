@@ -1,9 +1,10 @@
-# Dataset Access
+# Dataset Notes
 
-Dataset download instructions and format description will be provided here.
+This directory is reserved for dataset description and expected dataset structure.
 
-## Expected Structure
+## Expected Layout
 
+```text
 data/
 ├── train/
 ├── val/
