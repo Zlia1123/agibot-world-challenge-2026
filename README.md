@@ -95,4 +95,9 @@ Feel free to open an issue or discussion if you want to:
 - find teammates
 - discuss approaches
 - share ideas
+
+---
+
 ![Weixin Image_20260319112717_245_584](https://github.com/user-attachments/assets/011f05ab-072d-484a-b525-bc0ada984d4d)
+
+⭐ If you're interested, consider starring this repo to stay updated.
