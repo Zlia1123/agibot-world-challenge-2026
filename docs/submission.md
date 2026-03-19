@@ -1,14 +1,17 @@
 # Submission Guide
 
-## Submission Format
+Detailed submission instructions will be updated here.
 
-Participants should submit:
+## Expected Submission Materials
+
+Participants may be asked to provide:
 
 - source code or executable package
 - model checkpoints (if required)
-- inference instructions
-- environment dependencies
+- environment setup instructions
+- inference or evaluation scripts
+- team information
 
 ## Notes
 
-Detailed submission rules will be updated here.
+Please follow future updates in this repository for official submission requirements.
